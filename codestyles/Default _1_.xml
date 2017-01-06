@@ -1,0 +1,10 @@
+<code_scheme name="Default (1)">
+  <option name="RIGHT_MARGIN" value="180" />
+  <codeStyleSettings language="JavaScript">
+    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
+    <option name="SPECIAL_ELSE_IF_TREATMENT" value="false" />
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
+    <option name="IF_BRACE_FORCE" value="3" />
+  </codeStyleSettings>
+</code_scheme>
