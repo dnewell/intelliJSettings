@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="RestoreDefaultLayout" />
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="shift f12" />
+  </action>
+</keymap>
